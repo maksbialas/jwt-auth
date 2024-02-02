@@ -1,0 +1,1 @@
+Uruchamianie komendą `uvicorn app:app --reload`
